@@ -11,7 +11,7 @@
 - git clone https://github.com/RONI-XD/bff
 - cd bff
 - git pull
-- python bff
+- python bff.py
      
 
  ```This Tools is Free Enjoy ```</br>
